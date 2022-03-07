@@ -1,0 +1,14 @@
+C:\Users\nargi\Desktop\monthname\ayinadi\ayinadi\obj\Debug\netcoreapp3.1\ayinadi.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\monthname\ayinadi\ayinadi\obj\Debug\netcoreapp3.1\ayinadi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\monthname\ayinadi\ayinadi\obj\Debug\netcoreapp3.1\ayinadi.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\monthname\ayinadi\ayinadi\obj\Debug\netcoreapp3.1\ayinadi.AssemblyInfo.cs
+C:\Users\nargi\Desktop\monthname\ayinadi\ayinadi\obj\Debug\netcoreapp3.1\ayinadi.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\monthname\ayinadi\ayinadi\bin\Debug\netcoreapp3.1\ayinadi.exe
+C:\Users\nargi\Desktop\monthname\ayinadi\ayinadi\bin\Debug\netcoreapp3.1\ayinadi.deps.json
+C:\Users\nargi\Desktop\monthname\ayinadi\ayinadi\bin\Debug\netcoreapp3.1\ayinadi.runtimeconfig.json
+C:\Users\nargi\Desktop\monthname\ayinadi\ayinadi\bin\Debug\netcoreapp3.1\ayinadi.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\monthname\ayinadi\ayinadi\bin\Debug\netcoreapp3.1\ayinadi.dll
+C:\Users\nargi\Desktop\monthname\ayinadi\ayinadi\bin\Debug\netcoreapp3.1\ayinadi.pdb
+C:\Users\nargi\Desktop\monthname\ayinadi\ayinadi\obj\Debug\netcoreapp3.1\ayinadi.dll
+C:\Users\nargi\Desktop\monthname\ayinadi\ayinadi\obj\Debug\netcoreapp3.1\ayinadi.pdb
+C:\Users\nargi\Desktop\monthname\ayinadi\ayinadi\obj\Debug\netcoreapp3.1\ayinadi.genruntimeconfig.cache
